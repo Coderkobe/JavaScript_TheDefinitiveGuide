@@ -1,2 +1,1 @@
-# JavaScript_TheDefinitiveGuide
-JavaScript 权威指南
+## 客户端JavaScript
